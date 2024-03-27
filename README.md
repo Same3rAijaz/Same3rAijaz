@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://th.bing.com/th/id/R.cd37fa49c983ac905df0016fd5b6a2ee?rik=XYhzlatbpAHWnA&pid=ImgRaw&r=0"  />
+<img align="right" height="150" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif"  />
 
 ###
 
