@@ -1,10 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3b4261,100:7aa2f7&height=140&section=header&text=Sameer%20Aijaz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Pakistan&descAlignY=62&descSize=14" width="100%" alt="header" />
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3b4261,100:7aa2f7&height=170&section=header&text=Sameer%20Aijaz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Pakistan&descAlignY=62&descSize=13" width="100%" alt="header" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sameer+%F0%9F%91%8B;Software+Engineer+from+Pakistan;BS+Software+Engineering+Graduate;Building+things%2C+breaking+things%2C+learning+always" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sameer+%F0%9F%91%8B;Software+Engineer+from+Pakistan;BS+Software+Engineering+Graduate;Building+things%2C+breaking+things%2C+learning+always" alt="Typing SVG" />
 
 <a href="https://sameeraijaz.com/"><img src="https://img.shields.io/badge/Website-sameeraijaz.com-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://x.com/Sjazmeer"><img src="https://img.shields.io/badge/X-%40Sjazmeer-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -13,62 +11,26 @@
 
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
+🎓 **BS in Software Engineering**, SMI University, Karachi &nbsp;·&nbsp; 💻 building things across the stack &nbsp;·&nbsp; 🌱 always learning &nbsp;·&nbsp; 📫 aijazsameer5@gmail.com
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs&theme=dark" height="32" alt="tech stack" />
+
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
 <tr>
-<td width="34%" align="center" valign="top">
-<img src="assets/matrix-portrait.gif" width="230" alt="Sameer Aijaz" />
-</td>
-<td width="66%" valign="top">
-
-### 🧑‍💻 About Me
-
-- 🎓 **BS in Software Engineering** graduate, **SMI University**, Karachi, Pakistan
-- 💻 I like building things across the stack — scripts, apps, whatever the problem needs
-- 🌱 Always learning, always shipping
-- 📫 Reach me at **aijazsameer5@gmail.com**
-- 🐍 Fun fact: my contribution graph has a mind of its own — check the snake below
-
-**Tech Stack**
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs&theme=dark" alt="tech stack" />
-
-</td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=SAme3rAijaz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="stats graph" /></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAme3rAijaz&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="100%" alt="languages graph" /></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://streak-stats.demolab.com?user=SAme3rAijaz&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="streak graph" /></td>
+<td width="50%"><img src="https://github-profile-trophy.vercel.app?username=SAme3rAijaz&theme=tokyonight&no-frame=true&column=3&row=2&margin-w=6&margin-h=6" width="100%" alt="trophy graph" /></td>
+</tr>
+<tr>
+<td width="42%"><img src="https://raw.githubusercontent.com/SAme3rAijaz/SAme3rAijaz/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3d contribution graph" /></td>
+<td width="58%"><img src="https://raw.githubusercontent.com/SAme3rAijaz/SAme3rAijaz/output/snake.svg" width="100%" alt="Snake animation" /></td>
 </tr>
 </table>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="6">
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SAme3rAijaz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="stats graph" />
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAme3rAijaz&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="100%" alt="languages graph" />
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<img src="https://streak-stats.demolab.com?user=SAme3rAijaz&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="streak graph" />
-</td>
-<td width="50%" align="center">
-<img src="https://github-profile-trophy.vercel.app?username=SAme3rAijaz&theme=tokyonight&no-frame=true&column=3&row=2&margin-w=6&margin-h=6" width="100%" alt="trophy graph" />
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAme3rAijaz&theme=tokyo-night&hide_border=true&area=true&height=260" width="100%" alt="activity graph" />
-</div>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="6">
-<tr>
-<td width="42%" align="center">
-<img src="https://raw.githubusercontent.com/SAme3rAijaz/SAme3rAijaz/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3d contribution graph" />
-</td>
-<td width="58%" align="center">
-<img src="https://raw.githubusercontent.com/SAme3rAijaz/SAme3rAijaz/output/snake.svg" width="100%" alt="Snake animation" />
-</td>
-</tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAme3rAijaz&theme=tokyo-night&hide_border=true&area=true&height=160" width="100%" alt="activity graph" />
 
 <div align="center">
 
