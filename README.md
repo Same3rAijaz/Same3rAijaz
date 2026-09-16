@@ -11,7 +11,7 @@
 
 </div>
 
-🎓 **BS in Software Engineering**, SMI University, Karachi &nbsp;·&nbsp; 💻 building things across the stack &nbsp;·&nbsp; 🌱 always learning &nbsp;·&nbsp; 📫 aijazsameer5@gmail.com
+🎓 **BS in Software Engineering**, SMI University, Karachi &nbsp;·&nbsp; 💻 building things across the stack &nbsp;·&nbsp; 🌱 always learning &nbsp;·&nbsp; 📫 sameer.aijaz09@gmail.com
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs&theme=dark" height="32" alt="tech stack" />
 
